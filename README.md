@@ -5,32 +5,25 @@ A comprehensive guide to building a scalable MERN stack backend withExpress.js, 
 
 **Table of Contents**
 
-*   [Prerequisites]
-    
 
-*   [Project Setup](https://claude.ai/chat/cd359a6d-0990-4251-a5f7-d11cd31fdab8#project-setup)
-    
 
-*   [Dependencies](https://claude.ai/chat/cd359a6d-0990-4251-a5f7-d11cd31fdab8#dependencies)
+*   Prerequisites
     
-
-*   [Server Configuration](https://claude.ai/chat/cd359a6d-0990-4251-a5f7-d11cd31fdab8#server-configuration)
+*   Project Setup
     
-
-*   [Database Connection](https://claude.ai/chat/cd359a6d-0990-4251-a5f7-d11cd31fdab8#database-connection)
+*   Dependencies
     
-
-*   [Environment Variables](https://claude.ai/chat/cd359a6d-0990-4251-a5f7-d11cd31fdab8#environment-variables)
+*   Server Configuration
     
-
-*   [Running the Application](https://claude.ai/chat/cd359a6d-0990-4251-a5f7-d11cd31fdab8#running-the-application)
+*   Database Connection
     
-
-*   [Project Structure](https://claude.ai/chat/cd359a6d-0990-4251-a5f7-d11cd31fdab8#project-structure)
+*   Environment Variables
     
-
-*   [Next Steps](https://claude.ai/chat/cd359a6d-0990-4251-a5f7-d11cd31fdab8#next-steps)
+*   Running the Application
     
+*   Project Structure
+    
+*   Next Steps
 
 **Prerequisites**
 
