@@ -103,23 +103,10 @@ npm install -D nodemon
 
 Update your package.json to use modern ES modules:
 
-{
-
- "name": "mern-crash-course",
-
- "version": "1.0.0",
-
  "type": "module",
 
- "scripts": {
 
-   "dev": "nodemon server.js",
 
-   "start": "node server.js"
-
- }
-
-}
 
 **2\. Create Main Server File**
 
