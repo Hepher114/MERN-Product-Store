@@ -103,7 +103,7 @@ npm install -D nodemon
 
 Update your package.json to use modern ES modules:
 
- "type": "module",
+ add "type": "module",
 
 
 
