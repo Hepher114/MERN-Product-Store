@@ -5,7 +5,7 @@ A comprehensive guide to building a scalable MERN stack backend withExpress.js, 
 
 **Table of Contents**
 
-*   [Prerequisites](https://claude.ai/chat/cd359a6d-0990-4251-a5f7-d11cd31fdab8#prerequisites)
+*   [Prerequisites]
     
 
 *   [Project Setup](https://claude.ai/chat/cd359a6d-0990-4251-a5f7-d11cd31fdab8#project-setup)
